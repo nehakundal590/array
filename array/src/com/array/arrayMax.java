@@ -1,4 +1,5 @@
 package com.array;
+//Max element array
 
 public class arrayMax {
 	public static void main(String[] args) {
